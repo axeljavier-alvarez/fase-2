@@ -7,7 +7,8 @@
 using namespace std;
 
 class Cliente : Persona {
-	//atributos
+	
+	//atributossssssssss
 	private : string nit;
 	//contructor
 	public : Cliente (){
